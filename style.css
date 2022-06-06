@@ -1,0 +1,16 @@
+#lista {
+    border: 2px solid red;
+}
+
+.selected {
+    background-color: rgb(128, 128, 128);
+}
+
+.task {
+    margin: 5px;
+    padding: 5px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
